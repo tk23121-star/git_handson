@@ -1,7 +1,5 @@
 # git_handson
 
 git add .
-git commit -m "unko"
+git commit -m 
 
-tinkooooooooo
-unkooooooooooooooooo!!!!
